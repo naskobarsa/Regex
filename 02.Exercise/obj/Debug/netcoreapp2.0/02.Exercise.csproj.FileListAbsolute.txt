@@ -1,0 +1,11 @@
+C:\Users\nac\source\repos\Lab\02.Exercise\bin\Debug\netcoreapp2.0\02.Exercise.deps.json
+C:\Users\nac\source\repos\Lab\02.Exercise\bin\Debug\netcoreapp2.0\02.Exercise.runtimeconfig.json
+C:\Users\nac\source\repos\Lab\02.Exercise\bin\Debug\netcoreapp2.0\02.Exercise.runtimeconfig.dev.json
+C:\Users\nac\source\repos\Lab\02.Exercise\bin\Debug\netcoreapp2.0\02.Exercise.dll
+C:\Users\nac\source\repos\Lab\02.Exercise\bin\Debug\netcoreapp2.0\02.Exercise.pdb
+C:\Users\nac\source\repos\Lab\02.Exercise\obj\Debug\netcoreapp2.0\02.Exercise.csprojResolveAssemblyReference.cache
+C:\Users\nac\source\repos\Lab\02.Exercise\obj\Debug\netcoreapp2.0\02.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\nac\source\repos\Lab\02.Exercise\obj\Debug\netcoreapp2.0\02.Exercise.AssemblyInfoInputs.cache
+C:\Users\nac\source\repos\Lab\02.Exercise\obj\Debug\netcoreapp2.0\02.Exercise.AssemblyInfo.cs
+C:\Users\nac\source\repos\Lab\02.Exercise\obj\Debug\netcoreapp2.0\02.Exercise.dll
+C:\Users\nac\source\repos\Lab\02.Exercise\obj\Debug\netcoreapp2.0\02.Exercise.pdb
