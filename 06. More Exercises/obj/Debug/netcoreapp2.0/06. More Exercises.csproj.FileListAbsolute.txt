@@ -1,0 +1,10 @@
+C:\Users\nac\source\repos\Lab\06. More Exercises\bin\Debug\netcoreapp2.0\06. More Exercises.deps.json
+C:\Users\nac\source\repos\Lab\06. More Exercises\bin\Debug\netcoreapp2.0\06. More Exercises.runtimeconfig.json
+C:\Users\nac\source\repos\Lab\06. More Exercises\bin\Debug\netcoreapp2.0\06. More Exercises.runtimeconfig.dev.json
+C:\Users\nac\source\repos\Lab\06. More Exercises\bin\Debug\netcoreapp2.0\06. More Exercises.dll
+C:\Users\nac\source\repos\Lab\06. More Exercises\bin\Debug\netcoreapp2.0\06. More Exercises.pdb
+C:\Users\nac\source\repos\Lab\06. More Exercises\obj\Debug\netcoreapp2.0\06. More Exercises.csproj.CoreCompileInputs.cache
+C:\Users\nac\source\repos\Lab\06. More Exercises\obj\Debug\netcoreapp2.0\06. More Exercises.AssemblyInfoInputs.cache
+C:\Users\nac\source\repos\Lab\06. More Exercises\obj\Debug\netcoreapp2.0\06. More Exercises.AssemblyInfo.cs
+C:\Users\nac\source\repos\Lab\06. More Exercises\obj\Debug\netcoreapp2.0\06. More Exercises.dll
+C:\Users\nac\source\repos\Lab\06. More Exercises\obj\Debug\netcoreapp2.0\06. More Exercises.pdb
